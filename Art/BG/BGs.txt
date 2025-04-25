@@ -1,0 +1,4 @@
+Para los fondos
+
+- En teoria seria un fondo procedural que se puede repetir constantemente
+Al final podriamos hacer el fondo de rollo una isla por la noche mostrando la luna llena si eso

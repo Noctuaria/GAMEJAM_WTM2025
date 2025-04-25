@@ -1,0 +1,1 @@
+Para poner los archivos de música y sfx, iirc unity traga mejor los .wav
