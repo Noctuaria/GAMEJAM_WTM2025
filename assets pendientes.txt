@@ -25,5 +25,9 @@ peces globos
 erizos de mar
 oscuridad 
 
+--Mecánicas:
+
+puntos de oxigeno
+
 
 
