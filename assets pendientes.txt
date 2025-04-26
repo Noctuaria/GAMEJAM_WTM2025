@@ -1,0 +1,29 @@
+assets pendientes:
+
+--fondo:
+
+coral
+algas
+rocas
+burbujas
+cardúmenes
+medusas
+cristales
+tortuga marina(?
+manta raya(?
+pez luna(?
+pez diablo(?
+tiburón(?
+anguila(?
+
+
+--peligros:
+
+
+rocas filosas
+peces globos
+erizos de mar
+oscuridad 
+
+
+
